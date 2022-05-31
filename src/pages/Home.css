@@ -1,0 +1,11 @@
+.control{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 27px;
+}
+.titleApp{
+    text-align: center;
+    font-size: 55px;
+    margin-top: 10px;
+}
